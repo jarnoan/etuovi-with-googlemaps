@@ -3,13 +3,13 @@ with a bigger and better map using Google Maps API v3.
 Available also in userscripts.org: http://userscripts.org/scripts/show/105620
 Because Etuovi.com is in Finnish, so is the rest:
 
-Greasemonkey-skripti, joka korvaa Etuovi.comissa k‰ytetyn kartan
+Greasemonkey-skripti, joka korvaa Etuovi.comissa k√§ytetyn kartan
 Googlen kartalla.
 
 Asennusohjeet selaimesta riippuen:
 - Google Chrome: klikkaa http://userscripts.org/scripts/source/105620.user.js
-  ja hyv‰ksy asennus
-- Firefox: asenna Greasemonkey-laajennus (https://addons.mozilla.org/firefox/addon/748), klikkaa http://userscripts.org/scripts/source/105620.user.js ja hyv‰ksy asennus
-- Muut selaimet: eip‰ taida onnistua
+  ja hyv√§ksy asennus
+- Firefox: asenna Greasemonkey-laajennus (https://addons.mozilla.org/firefox/addon/748), klikkaa http://userscripts.org/scripts/source/105620.user.js ja hyv√§ksy asennus
+- Muut selaimet: eip√§ taida onnistua
 
 
