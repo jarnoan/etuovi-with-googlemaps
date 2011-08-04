@@ -4,7 +4,7 @@
 // @description	        Changes Etuovi.com to use Google Maps
 // @include		http://kuluttaja.etuovi.com/crometapp/product/realties/common/public/search/item/item.jsp?*
 // @include		http://kuluttaja.etuovi.com/kohde/*
-// @version		1.0
+// @version		1.1
 // ==/UserScript==
 
 function main() {
@@ -22,6 +22,7 @@ function main() {
 	"			center: latlng," +
 	"			mapTypeId: google.maps.MapTypeId.ROADMAP," +
 	"			mapTypeControl: false," +
+	"			scrollwheel: false," +
 	"			streetViewControl: true" +
 	"		});" +
 	"		var marker = new google.maps.Marker({" +
